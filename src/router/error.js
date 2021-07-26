@@ -1,12 +1,10 @@
-import TestA from "/@/components/Test/TestA.vue"
-
 /**
  * 错误页路由
  */
 const errorRouter = {
   path: "/error",
   name: "error",
-  component: TestA,
+  // component: TestA,
   // meta: {
   //   icon: "el-icon-position",
   //   title: "message.hserror",
