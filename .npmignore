@@ -1,0 +1,11 @@
+.*
+*.log
+*.swp
+coverage
+test
+benchmark
+temp
+docs
+types
+scripts
+public

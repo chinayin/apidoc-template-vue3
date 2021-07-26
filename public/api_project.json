@@ -1,0 +1,32 @@
+{
+  "name": "apidoc-example",
+  "version": "0.3.0",
+  "description": "apiDoc example project",
+  "title": "apidoc-example",
+  "url": "https://www.baidu.com",
+  "sampleUrl": "https://www.baidu.com/sample",
+  "template": {
+    "forceLanguage": "en",
+    "withCompare": true,
+    "withGenerator": true,
+    "aloneDisplay": true
+  },
+  "defaultVersion": "0.0.0",
+  "apidoc": "0.3.0",
+  "header": {
+    "content": "<h2 id=\"welcome-to-apidoc\">Welcome to apiDoc</h2>\n<p>Please visit <a href=\"http://apidocjs.com\">apidocjs.com</a> with the full documentation.</p>\n"
+  },
+  "footer": {
+    "content": "<h2 id=\"epilogue\">Epilogue</h2>\n<p>Suggestions, contact, support and error reporting on <a href=\"https://github.com/apidoc/apidoc/issues\">GitHub</a></p>\n"
+  },
+  "order": [
+    "GetUser",
+    "PostUser"
+  ],
+  "generator": {
+    "name": "apidoc",
+    "time": "2021-07-13T07:27:12.694Z",
+    "url": "https://apidocjs.com",
+    "version": "0.28.1"
+  }
+}
