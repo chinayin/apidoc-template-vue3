@@ -1,6 +1,6 @@
 <template>
   <article
-    id="api-{{article.group}}-{{article.name}}-{{article.version}}"
+    :id="api-${article.group}-${article.name}-${article.version}"
     :class=" {hide: article.hidden}"
   >
     <div class="pull-left">
